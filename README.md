@@ -1,7 +1,7 @@
-# InteractiveStockAnalyzer
+# Interactive Stock Analyzer
 
 ## Overview
-InteractiveStockAnalyzer is a Python-based application designed for real-time stock data analysis. It utilizes technical indicators such as the Relative Strength Index (RSI) and Bollinger Bands to provide insights into stock market trends. Built using yfinance, Plotly, and Dash, this tool offers an interactive web interface for visualizing stock price movements and indicator signals.
+Interactive Stock Analyzer is a Python-based application designed for real-time stock data analysis. It utilizes technical indicators such as the Relative Strength Index (RSI) and Bollinger Bands to provide insights into stock market trends. Built using yfinance, Plotly, and Dash, this tool offers an interactive web interface for visualizing stock price movements and indicator signals.
 
 ## Features
 - **Stock Data Fetching**: Retrieves historical stock data from Yahoo Finance.
